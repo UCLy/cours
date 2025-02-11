@@ -1,6 +1,4 @@
-# cours
-
-Ressources pour cours à l'UCLy
+# Ressources pour cours à l'UCLy
 
 ## Cours Python
 
