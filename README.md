@@ -2,9 +2,13 @@
 
 ## Cours Python
 
-1. [Synthaxe de base](1_syntaxe_bases.ipynb)
-2. [Conditions](2_conditions.ipynb)
-3. [Listes](3_listes_etudiants.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UCLy/cours/blob/master/1_syntaxe_bases.ipynb) [Synthaxe de base](1_syntaxe_bases.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UCLy/cours/blob/master/2_conditions.ipynb) [Conditions](2_conditions.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UCLy/cours/blob/master/3_listes_etudiants.ipynb) [Listes](3_listes_etudiants.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UCLy/cours/blob/master/4_classes.ipynb) [Classes](4_classes.ipynb)
 
 ## Cours pour élèves de colèges
 
