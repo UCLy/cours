@@ -14,7 +14,7 @@
 
 ## Cours pour élèves de colèges
 
-Initiation à python préparée par les élèves de la licence science de l'éduciation promo 2025.
+Initiation à python préparée par les élèves de la licence science de l'éducation promo 2025.
 
 1. [Le python voyageur](sef/Le_Python_Voyageur.ipynb)
 2. [Python niveau sixième](sef/Python_niveau_sixieme.ipynb) 
