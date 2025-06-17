@@ -10,7 +10,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UCLy/cours/blob/master/4_classes.ipynb) [Classes](4_classes.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UCLy/cours/blob/master/5_classes_2.ipynb) [Classes](5_classes_2.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UCLy/cours/blob/master/5_classes_2.ipynb) [Classes 2](5_classes_2.ipynb)
 
 ## Cours pour élèves de colèges
 
